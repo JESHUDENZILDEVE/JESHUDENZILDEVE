@@ -191,7 +191,7 @@ A Python-based voice assistant combining conversational AI, APIs, and automation
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeshu2003&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JESHUDENZILDEVE&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -199,7 +199,7 @@ A Python-based voice assistant combining conversational AI, APIs, and automation
 ## 👀 Profile Visitors
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jeshu2003&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=JESHUDENZILDEVE&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
@@ -207,8 +207,8 @@ A Python-based voice assistant combining conversational AI, APIs, and automation
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://github.com/jeshu2003">
-    <img src="https://img.shields.io/badge/GitHub-jeshu2003-181717?style=for-the-badge&logo=github"/>
+  <a href="https://github.com/JESHUDENZILDEVE">
+    <img src="https://img.shields.io/badge/GitHub-JESHUDENZILDEVE-181717?style=for-the-badge&logo=github"/>
   </a>
   <a href="https://linkedin.com/in/jeshudenzildeve">
     <img src="https://img.shields.io/badge/LinkedIn-Jeshu%20Denzil%20Deve-0A66C2?style=for-the-badge&logo=linkedin"/>
