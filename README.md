@@ -1,5 +1,3 @@
-<!-- HEADER -->
-
 <h1 align="center">👋 Hi, I'm Jeshu Denzil Deve</h1>
 
 <h3 align="center">
@@ -32,7 +30,7 @@ I'm a **Generative AI Developer** focused on building practical AI applications 
 
 I've worked on projects ranging from **document intelligence and RAG chatbots to banking conversational AI and voice assistants**.
 
-My current interests include:
+### What I'm interested in
 
 * 🤖 Generative AI & LLM applications
 * 📚 Retrieval-Augmented Generation (RAG)
@@ -49,7 +47,7 @@ I'm currently looking for opportunities as an **Associate AI/ML Engineer or Gene
 ## 🌐 Portfolio & Professional Profiles
 
 <p align="center">
-  <a href="https://github.com/jeshu2003">
+  <a href="https://github.com/JESHUDENZILDEVE">
     <img src="https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/jeshudenzildeve">
@@ -69,11 +67,7 @@ I'm currently looking for opportunities as an **Associate AI/ML Engineer or Gene
 
 ### 🤖 Generative AI
 
-<p>
-  <img src="https://skillicons.dev/icons?i=openai" />
-</p>
-
-**LLMs • RAG • Prompt Engineering • AI Agents • NLP • Embeddings**
+**LLMs** • **RAG** • **Prompt Engineering** • **AI Agents** • **NLP** • **Embeddings**
 
 ### 🧠 AI & LLM Tools
 
@@ -99,8 +93,6 @@ I'm currently looking for opportunities as an **Associate AI/ML Engineer or Gene
 
 A document-grounded conversational AI application built around a **RAG pipeline**.
 
-**Pipeline:**
-
 ```text
 PDF
  ↓
@@ -121,7 +113,8 @@ LLM
 Response
 ```
 
-**Tech:** Python • FAISS • ChromaDB • SentenceTransformers • PyPDF2 • Streamlit • OpenAI/Gemini
+**Tech:**
+`Python` `RAG` `FAISS` `ChromaDB` `SentenceTransformers` `PyPDF2` `Streamlit` `OpenAI` `Gemini`
 
 ---
 
@@ -136,7 +129,8 @@ A conversational AI application designed to generate contextual responses to ban
 * Conversation-flow design
 * Task-focused responses
 
-**Tech:** Python • LLM APIs • Prompt Engineering
+**Tech:**
+`Python` `LLM APIs` `Prompt Engineering`
 
 ---
 
@@ -151,7 +145,8 @@ A Python-based voice assistant combining conversational AI, APIs, and automation
 * Information retrieval
 * Automated assistant tasks
 
-**Tech:** Python • APIs • Automation • Conversational AI
+**Tech:**
+`Python` `APIs` `Automation` `Conversational AI`
 
 ---
 
@@ -171,19 +166,15 @@ A Python-based voice assistant combining conversational AI, APIs, and automation
 ## 🔧 Tools I Use
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,vscode,git,github,linux,mysql" />
-
+  <img src="https://skillicons.dev/icons?i=python,vscode,git,github,linux,mysql" />
 </p>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/FAISS-Vector_Search-00A98F?style=flat-square"/>
-<img src="https://img.shields.io/badge/ChromaDB-Vector_Database-FF6B6B?style=flat-square"/>
-<img src="https://img.shields.io/badge/Streamlit-Application-FF4B4B?style=flat-square"/>
-<img src="https://img.shields.io/badge/Gemini-LLM-4285F4?style=flat-square"/>
-<img src="https://img.shields.io/badge/OpenAI-LLM-412991?style=flat-square"/>
-
+  <img src="https://img.shields.io/badge/FAISS-Vector_Search-00A98F?style=flat-square"/>
+  <img src="https://img.shields.io/badge/ChromaDB-Vector_Database-FF6B6B?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Streamlit-Application-FF4B4B?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Gemini-LLM-4285F4?style=flat-square"/>
+  <img src="https://img.shields.io/badge/OpenAI-LLM-412991?style=flat-square"/>
 </p>
 
 ---
