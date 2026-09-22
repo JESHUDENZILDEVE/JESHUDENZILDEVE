@@ -111,101 +111,48 @@ Relevant Context
 LLM
  ↓
 Response
-```
+Tech:
+Python RAG FAISS ChromaDB SentenceTransformers PyPDF2 Streamlit OpenAI Gemini
 
-**Tech:**
-`Python` `RAG` `FAISS` `ChromaDB` `SentenceTransformers` `PyPDF2` `Streamlit` `OpenAI` `Gemini`
-
----
-
-### 🏦 AI Banking Chatbot
-
+🏦 AI Banking Chatbot
 A conversational AI application designed to generate contextual responses to banking-related queries.
 
-**Focus:**
+Focus:
 
-* LLM integration
-* Prompt engineering
-* Conversation-flow design
-* Task-focused responses
+LLM integration
 
-**Tech:**
-`Python` `LLM APIs` `Prompt Engineering`
+Prompt engineering
 
----
+Conversation-flow design
 
-### 🎙️ Corleone AI Voice Assistant
+Task-focused responses
 
+Tech:
+Python LLM APIs Prompt Engineering
+
+🎙️ Corleone AI Voice Assistant
 A Python-based voice assistant combining conversational AI, APIs, and automation.
 
-**Focus:**
+Focus:
 
-* Voice-assistant workflow
-* External API integration
-* Information retrieval
-* Automated assistant tasks
+Voice-assistant workflow
 
-**Tech:**
-`Python` `APIs` `Automation` `Conversational AI`
+External API integration
 
----
+Information retrieval
 
-## 📊 GitHub Stats
+Automated assistant tasks
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JESHUDENZILDEVE&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JESHUDENZILDEVE&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+Tech:
+Python APIs Automation Conversational AI
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=JESHUDENZILDEVE&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🔧 Tools I Use
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,vscode,git,github,linux,mysql" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/FAISS-Vector_Search-00A98F?style=flat-square"/>
-  <img src="https://img.shields.io/badge/ChromaDB-Vector_Database-FF6B6B?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Streamlit-Application-FF4B4B?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Gemini-LLM-4285F4?style=flat-square"/>
-  <img src="https://img.shields.io/badge/OpenAI-LLM-412991?style=flat-square"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JESHUDENZILDEVE&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-## 👀 Profile Visitors
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JESHUDENZILDEVE&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
-
----
-
-## 🤝 Let's Connect
-
-<p align="center">
-  <a href="https://github.com/JESHUDENZILDEVE">
-    <img src="https://img.shields.io/badge/GitHub-JESHUDENZILDEVE-181717?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://linkedin.com/in/jeshudenzildeve">
-    <img src="https://img.shields.io/badge/LinkedIn-Jeshu%20Denzil%20Deve-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-</p>
-
-<p align="center">
-  <i>Building practical AI applications, one project at a time.</i>
-</p>
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=JESHUDENZILDEVE&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JESHUDENZILDEVE&layout=compact&theme=tokyonight&hide_border=true" height="170"/> </p><p align="center"> <img src="https://streak-stats.demolab.com?user=JESHUDENZILDEVE&theme=tokyonight&hide_border=true" /> </p>
+🔧 Tools I Use
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,vscode,git,github,linux" /> </p><p align="center"> <img src="https://img.shields.io/badge/FAISS-Vector_Search-00A98F?style=flat-square"/> <img src="https://img.shields.io/badge/ChromaDB-Vector_Database-FF6B6B?style=flat-square"/> <img src="https://img.shields.io/badge/Streamlit-Application-FF4B4B?style=flat-square"/> <img src="https://img.shields.io/badge/Gemini-LLM-4285F4?style=flat-square"/> <img src="https://img.shields.io/badge/OpenAI-LLM-412991?style=flat-square"/> </p>
+📈 Contribution Graph
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=JESHUDENZILDEVE&theme=tokyo-night&hide_border=true" /> </p>
+👀 Profile Visitors
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=JESHUDENZILDEVE&label=Profile%20Views&color=0e75b6&style=for-the-badge" /> </p>
+🤝 Let's Connect
+<p align="center"> <a href="https://github.com/JESHUDENZILDEVE"> <img src="https://img.shields.io/badge/GitHub-JESHUDENZILDEVE-181717?style=for-the-badge&logo=github"/> </a> <a href="https://linkedin.com/in/jeshudenzildeve"> <img src="https://img.shields.io/badge/LinkedIn-Jeshu%20Denzil%20Deve-0A66C2?style=for-the-badge&logo=linkedin"/> </a> </p><p align="center"> <i>Building practical AI applications, one project at a time.</i> </p>
