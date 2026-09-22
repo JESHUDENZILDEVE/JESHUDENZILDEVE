@@ -166,7 +166,7 @@ A Python-based voice assistant combining conversational AI, APIs, and automation
 ## 🔧 Tools I Use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,vscode,git,github,linux,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,vscode,github,linux" />
 </p>
 
 <p align="center">
